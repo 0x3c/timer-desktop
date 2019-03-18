@@ -1,0 +1,10 @@
+{
+  "name": "timer-desktop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Samuel Chia",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^4.1.0"
+  }
+}
